@@ -77,7 +77,7 @@ I'm a passionate Full Stack Developer from Laos, bringing ideas to life through 
 ### Project 1: [ProjectHub](https://github.com/PitiDev/workhub-projects-management)
 A comprehensive project and task management application with a modern web interface built with Nuxt.js and backed by a powerful Node.js API.
 
-### Project 2: [Sabai Money]([https://github.com/PitiDev/project-link](https://github.com/PitiDev/Personal-Finance-Tracker)
+### Project 2: [Sabai Money](https://github.com/PitiDev/project-link](https://github.com/PitiDev/Personal-Finance-Tracker)
 Personal Finance Tracker is a modern, full-stack web application built with Next.js that helps users manage their finances, track expenses, set budgets, and gain insights into their financial health.
 
 ### Project 3: [Sabai Chat](https://github.com/PitiDev/sabai_chat)
